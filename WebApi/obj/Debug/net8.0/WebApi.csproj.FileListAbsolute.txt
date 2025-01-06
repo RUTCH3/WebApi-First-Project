@@ -63,3 +63,4 @@ C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\scopedcss\bundle\Web
 C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
 C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\2025\WebApi\WebApi-First-Project\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.runtime.json
