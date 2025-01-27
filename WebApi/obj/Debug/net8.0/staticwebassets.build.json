@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f2+rSh6VasznKA9GiMJ0PXNyDo2URXkHg1ZFkVOqk5c=",
+  "Hash": "DQF848xAQ0acC7t30wDels8znQxBo7Rn2tpG5dQdLQw=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -22,15 +22,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
-      "RelativePath": "css/jewelry.css",
+      "RelativePath": "css/jewelry#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "g0l5glwh6u",
+      "Integrity": "oL3vhaI2vWxmBJyQAxA7pwVYTNM8CCl8dDX3AX8uHPE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\jewelry.css"
@@ -41,15 +43,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
-      "RelativePath": "index.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6he2qkmr92",
+      "Integrity": "yv8dTzgwbpVNDf4phvgK8xH5dY8yh+WeYDLdwRgU4QM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -60,18 +64,474 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
-      "RelativePath": "js/jewelry2.js",
+      "RelativePath": "js/jewelry2#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "p5yej3jck7",
+      "Integrity": "k0wFb4ES6rGQ0iwo+g40hfS3onf5WQHZ9++ScoFuAH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\jewelry2.js"
+    },
+    {
+      "Identity": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\1.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "pictures/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvntdpr4wl",
+      "Integrity": "LP+vRmrJD18f8fG/qC9/sI+eWSM72bjUvTy/9lLsXc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\1.jpg"
+    },
+    {
+      "Identity": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\2.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "pictures/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwy44hdit1",
+      "Integrity": "q0HUx2WBItFqmvFsvZ5qA1poeEemNNsE2bzSxBaKjTU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\2.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/jewelry.css",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\css\\jewelry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL3vhaI2vWxmBJyQAxA7pwVYTNM8CCl8dDX3AX8uHPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oL3vhaI2vWxmBJyQAxA7pwVYTNM8CCl8dDX3AX8uHPE="
+        }
+      ]
+    },
+    {
+      "Route": "css/jewelry.g0l5glwh6u.css",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\css\\jewelry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL3vhaI2vWxmBJyQAxA7pwVYTNM8CCl8dDX3AX8uHPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0l5glwh6u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/jewelry.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oL3vhaI2vWxmBJyQAxA7pwVYTNM8CCl8dDX3AX8uHPE="
+        }
+      ]
+    },
+    {
+      "Route": "index.6he2qkmr92.html",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv8dTzgwbpVNDf4phvgK8xH5dY8yh+WeYDLdwRgU4QM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6he2qkmr92"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv8dTzgwbpVNDf4phvgK8xH5dY8yh+WeYDLdwRgU4QM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv8dTzgwbpVNDf4phvgK8xH5dY8yh+WeYDLdwRgU4QM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv8dTzgwbpVNDf4phvgK8xH5dY8yh+WeYDLdwRgU4QM="
+        }
+      ]
+    },
+    {
+      "Route": "js/jewelry2.js",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\js\\jewelry2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0wFb4ES6rGQ0iwo+g40hfS3onf5WQHZ9++ScoFuAH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0wFb4ES6rGQ0iwo+g40hfS3onf5WQHZ9++ScoFuAH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/jewelry2.p5yej3jck7.js",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\js\\jewelry2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0wFb4ES6rGQ0iwo+g40hfS3onf5WQHZ9++ScoFuAH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p5yej3jck7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jewelry2.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0wFb4ES6rGQ0iwo+g40hfS3onf5WQHZ9++ScoFuAH0="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/1.jpg",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP+vRmrJD18f8fG/qC9/sI+eWSM72bjUvTy/9lLsXc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 14:24:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP+vRmrJD18f8fG/qC9/sI+eWSM72bjUvTy/9lLsXc0="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/1.wvntdpr4wl.jpg",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP+vRmrJD18f8fG/qC9/sI+eWSM72bjUvTy/9lLsXc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 14:24:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvntdpr4wl"
+        },
+        {
+          "Name": "label",
+          "Value": "pictures/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP+vRmrJD18f8fG/qC9/sI+eWSM72bjUvTy/9lLsXc0="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/2.bwy44hdit1.jpg",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0HUx2WBItFqmvFsvZ5qA1poeEemNNsE2bzSxBaKjTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 14:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwy44hdit1"
+        },
+        {
+          "Name": "label",
+          "Value": "pictures/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0HUx2WBItFqmvFsvZ5qA1poeEemNNsE2bzSxBaKjTU="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/2.jpg",
+      "AssetFile": "C:\\2025\\WebApi\\WebApi-First-Project\\WebApi\\wwwroot\\pictures\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0HUx2WBItFqmvFsvZ5qA1poeEemNNsE2bzSxBaKjTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 14:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0HUx2WBItFqmvFsvZ5qA1poeEemNNsE2bzSxBaKjTU="
+        }
+      ]
     }
   ]
 }

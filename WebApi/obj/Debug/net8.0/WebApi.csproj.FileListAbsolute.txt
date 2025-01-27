@@ -64,3 +64,6 @@ C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Dat
 C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\ref\WebApi.dll
 C:\2025\WebApi\WebApi-First-Project\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.runtime.json
+C:\2025\WebApi\WebApi-First-Project\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\2025\WebApi\WebApi-First-Project\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
